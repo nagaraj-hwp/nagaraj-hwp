@@ -16,7 +16,7 @@
   
 1. Connect with me on [LINKEDIN](https://www.linkedin.com/in/nagaraj-palpandi/)
 2. Connect with me on [INSTAGRAM](https://www.instagram.com/nagaraj_hwp/)
-3. Connect with me on [X/twitter]((https://twitter.com/nagaraj_hwp))
+3. Connect with me on [X/twitter](https://twitter.com/nagaraj_hwp)
 4. My Photography works on [PEXELS](https://www.pexels.com/@nagaraj-hwp-796096/)
 5. Some of my Coding works on [SOLOLEARN](https://www.sololearn.com/profile/10943821)
 
