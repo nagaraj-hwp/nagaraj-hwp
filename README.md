@@ -1,4 +1,4 @@
-## Hi, I'm Nagaraj Software Development Engineer 👨‍💻
+## I'm Nagaraj Software Development Engineer
 
 - Have knowledge on Python, C, Shell scripting.
 - Does have Devops knowledge.
