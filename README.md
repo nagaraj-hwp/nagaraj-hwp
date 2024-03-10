@@ -3,15 +3,14 @@
 - Have knowledge on Python, C, Shell scripting.
 - Does have Devops knowledge.
 - Learning Django and Sql
-- solved problems on leetcode and attends hackathon.
-- Apart from tech I am also passionate on photography and cooking. Find my photos here 👉[Click Here](https://www.pexels.com/@nagaraj-hwp-796096/)
-  
+- Solving problems on leetcode and attends hackathons.
+
 [1]: http://www.github.com/nagaraj-hwp
 [2]: https://www.linkedin.com/in/nagaraj-palpandi/
 [3]: https://www.pexels.com/@nagaraj-hwp-796096/
 
   ---
-  *__As we learn more, we understood we there's lot more to learn__*
+  *__As we learn more, we understood there's a lot more to learn__*
   ---
   
 1. Connect with me on [LINKEDIN](https://www.linkedin.com/in/nagaraj-palpandi/)
